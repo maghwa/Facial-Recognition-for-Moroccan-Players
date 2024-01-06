@@ -1,1 +1,1 @@
-# Facial-Recognition-for-Moroccan-Players 🇲🇦
+# Facial Recognition for Moroccan Players 🇲🇦
